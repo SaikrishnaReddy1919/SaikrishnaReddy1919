@@ -5,7 +5,7 @@ I am **Saikrishna Reddy**. I am an Experienced **Full stack Engineer** with a de
 For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
 
 
-[![Linkedin: Saikrishna Reddy](https://img.shields.io/badge/-Krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikrishna-reddy-dev/)](https://www.linkedin.com/in/ghazi-khan/)
+[![Linkedin: Saikrishna Reddy](https://img.shields.io/badge/-Krishna-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/saikrishna-reddy-dev/)](https://www.linkedin.com/in/saikrishna-reddy-dev/)
 [![GitHub Saikrishna Reddy](https://img.shields.io/github/followers/SaikrishnaReddy1919?label=follow&style=social)](https://github.com/saikrishnaReddy1919/)
 ![Twitter Follow](https://img.shields.io/twitter/follow/web3_devv?style=social)
 
