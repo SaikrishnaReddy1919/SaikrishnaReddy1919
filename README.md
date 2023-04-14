@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am **Saikrishna Reddy**. I am an Experienced **Full stack Engineer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, NodeJS, MongoDB, Mean Stack, RESTfull API’s, PostgreSQL, GraphQl, Ethereum, Solidity, Rust**.
+I am **Saikrishna Reddy**, an experienced **full-stack engineer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, NodeJS, MongoDB, Mean Stack, REST API’s, PostgreSQL, GraphQl, Ethereum, Solidity, Rust, etc.**.
 
 For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
 
