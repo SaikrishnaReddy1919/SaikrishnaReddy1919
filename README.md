@@ -12,7 +12,7 @@ For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
 ---
 
 - 🌱 I’m currently learning **Advanced Nodejs - Blockchain - Defi Protocols**
-- 👯 I’m looking to collaborate on open source/commercial projects
+- 👯 I’m looking to collaborate on open source projects
 - 🤔 Are you a fresher or just started learning developement ? reach out to me for any kind of help.
 - 💬 Ask me about **Web Development**, **We3 Development**
 - 📫 How to reach me:
