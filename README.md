@@ -1,7 +1,6 @@
 ## Hi there 👋
 
-I am **Saikrishna Reddy**, an experienced **full-stack engineer** with a demonstrated history of working in the information technology and services industry. **Skilled in React JS, Angular, NodeJS, MongoDB, Mean Stack, REST API’s, PostgreSQL, GraphQl, Ethereum, Solidity, Rust, etc.**.
-
+Greetings! I'm **Saikrishna Reddy**, an accomplished **Full-Stack Engineer** with a proven track record in the information technology and services sector. My expertise spans across multiple technologies, encompassing React JS, Angular, NodeJS, MongoDB, AWS, REST API’s, PostgreSQL, GraphQl, Ethereum, Solidity, Rust, and more. With a history of successful contributions to various projects, I take pride in delivering top-notch solutions and leveraging my skills to achieve remarkable results.
 For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
 
 
@@ -11,11 +10,11 @@ For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
 
 ---
 
-- 🌱 I’m currently learning **Advanced Nodejs - Blockchain - Defi Protocols**
-- 👯 I’m looking to collaborate on open source projects
-- 🤔 Are you a fresher or just started learning developement ? reach out to me for any kind of help.
-- 💬 Ask me about **Web Development**, **We3 Development**
-- 📫 How to reach me:
+- 🌱 Presently, I'm deepening my knowledge in Advanced Nodejs, System Design and Web3 Stack.
+- 👯 I'm actively seeking collaborations on open source projects.
+- 🤔 If you're a fresher or new to development, don't hesitate to reach out to me for any kind of assistance.
+- 💬 Please don't hesitate to inquire about Web Development, We3 Development, or any other areas where you may need assistance as a student. I'm here to help!
+- 📫 You can connect with me on:
   **[Twitter](https://twitter.com/web3_devv), [LinkedIn](https://www.linkedin.com/in/saikrishna-reddy-dev/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikrishnaReddy1919&layout=compact&theme=dark&hide_border=true)
