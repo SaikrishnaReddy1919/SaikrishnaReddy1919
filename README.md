@@ -18,7 +18,3 @@ For more info, Vist my **[Blog](https://saikrishnareddy.vercel.app/)
   **[Twitter](https://twitter.com/web3_devv), [LinkedIn](https://www.linkedin.com/in/saikrishna-reddy-dev/)**
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaikrishnaReddy1919&layout=compact&theme=dark&hide_border=true)
-
-![Saikrishna Reddy's github stats](https://github-readme-stats.vercel.app/api?username=SaikrishnaReddy1919&show_icons=true&hide_border=true&theme=dark)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SaikrishnaReddy1919)](https://github.com/SaikrishnaReddy1919/github-profile-trophy)
