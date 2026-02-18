@@ -19,6 +19,9 @@ It generates **sourced narratives** explaining how and why the code evolved — 
 🚧 Website launching soon  
 🔓 Open-sourcing after first stable release
 
+🎥 Curious how this works in practice?  
+I’m happy to walk through a live demo and discuss the architecture.
+
 **Tech stack:**  
 Python · Typer · ChromaDB · RAG · LLMs · MCP · LangChain · LangSmith
 
