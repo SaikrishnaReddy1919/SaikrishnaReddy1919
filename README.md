@@ -5,7 +5,10 @@
 
 Senior Full-Stack Engineer specializing in scalable applications and AI solutions. I focus on building robust distributed systems and integrating cutting-edge AI technologies into production applications.
 
-## 🏺 FOSSICK — Codebase Archaeology (One of my side quests)
+## Projects
+
+1. [Fossick-cli](https://github.com/SaikrishnaReddy1919/fossick-cli)
+### 🏺 FOSSICK — Codebase Archaeology (One of my side quests)
 
 > Understand **why** code exists — not just what it does.
 
@@ -22,10 +25,16 @@ It generates **sourced narratives** explaining how and why the code evolved — 
 🎥 Curious how this works in practice?  
 I’m happy to walk through a live demo and discuss the architecture.
 
-**Tech stack:**  
+**Tech Used:**  
 Python · Typer · ChromaDB · RAG · LLMs · MCP · LangChain · LangSmith
 
 💬 Want to talk about it? Reach out via [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-style&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saikrishna-reddy-dev/).
+
+---
+2. [Log-Narrator](https://github.com/SaikrishnaReddy1919/log-narrator)
+An AI agent that transforms raw application/server logs into human-readable narrative timelines. Built with Strands Agents SDK, deployed to Amazon Bedrock AgentCore.
+
+---
 
 ## Tech Stack 🛠️
 
